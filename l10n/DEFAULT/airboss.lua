@@ -49,11 +49,11 @@ local AirbossStennis=AIRBOSS:New("USS Stennis")
 
 -- Add recovery windows:
 -- Case I from 9 to 10 am.
-local window1=AirbossStennis:AddRecoveryWindow( "9:00", "10:00", 1, nil, true, 25)
+local window1=AirbossStennis:AddRecoveryWindow( "9:00", "13:00", 1, nil, true, 25)
 -- Case II with +15 degrees holding offset from 15:00 for 60 min.
-local window2=AirbossStennis:AddRecoveryWindow("15:00", "16:00", 2,  15, true, 23)
+local window2=AirbossStennis:AddRecoveryWindow("14:00", "16:00", 2,  15, true, 23)
 -- Case III with +30 degrees holding offset from 2100 to 2200.
-local window3=AirbossStennis:AddRecoveryWindow("21:00", "22:00", 3,  30, true, 21)
+local window3=AirbossStennis:AddRecoveryWindow("21:00", "23:00", 3,  30, true, 21)
 
 -- Set folder of airboss sound files within miz file.
 AirbossStennis:SetSoundfilesFolder("Airboss Soundfiles/")
