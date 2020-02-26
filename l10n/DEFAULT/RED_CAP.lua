@@ -11,11 +11,11 @@ DetectionSetGroup = SET_GROUP:New()
 DetectionSetGroup:FilterPrefixes( "FLOTRED" )
 DetectionSetGroup:FilterStart()
 
-Detection = DETECTION_AREAS:New( DetectionSetGroup, 30000 )
+Detection = DETECTION_AREAS:New( DetectionSetGroup, 20000 )
 
 -- Setup the A2A dispatcher, and initialize it.
 A2ADispatcher = AI_A2A_DISPATCHER:New( Detection )
-A2ADispatcher:SetEngageRadius( 70000 )
+A2ADispatcher:SetEngageRadius( 50000 )
 -- Setup the squadrons.
 
 A2ADispatcher:SetSquadron( "5js", AIRBASE.Caucasus.Mineralnye_Vody, { "SU27CAP" }, 4 )

@@ -35,8 +35,8 @@
 -- note, TACAN are on channel Y 
 _TANKER_UNITS = {
   {NAME='KC-135MPRS_ARCO',  TACAN=39 },
-  {NAME='KC-135MPRS_SHELL',  TACAN=42},
-  {NAME='KC-135_TEXACO',  TACAN=45},
+  {NAME='KC-135MPRS_SHELL',  TACAN=40},
+  {NAME='KC-135_TEXACO',  TACAN=41},
 }
 
 -- Minimum fuel
