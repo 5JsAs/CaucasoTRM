@@ -9,7 +9,7 @@ BFM contra Su27 y Mig29 IA.
 ##  ESCENARIO DE ENTRENAMIENTO CARRIER OPS
 - CVN Stennis y Tarawa frente a la costa de Kobuleti.
 - Aviones: 4xF18 + 4xF14
-- AIRBOSS:  cisterna s3-b disponible en 250Mhz, TCN 3Y, alt 6000', 300 TAS
+- AIRBOSS:  cisterna s3-b disponible en 250Mhz, TCN 50Y, alt 6000', 300 TAS
 - MOA NORTE BATUMI, MOA SUR BATUMI en plan vuelo F18s.
 - Weather, BRC, freqs, ventanas: Menú AIRBOSS-->kneeboard.
 - POLÍGONO REAL DE TIRO aL SUR KOBULETI: T80s, BTRs, ZSUs, URAL y estáticos. Coord: N 41º 50' 31", E 41º 47' 52" 
@@ -46,9 +46,9 @@ BFM contra Su27 y Mig29 IA.
 
 - SUPPORT:
   - AWACS / MAGIC/ Freq 305.000 / TCN:
-  - Tanker / KC-135MPRS / 20000 ft / ARCO / Freq 251.000 / TCN:39Y/ MACH 0.6 / NORTE SENAKI
-  - Tanker / KC135MPRS / 22000 ft / SHELL / Freq 252.000 / TCN:40Y/ MACH 0.6 / NORTE SENAKI
-  - Tanker / KC-135 / 15000 ft /TEXACO / Freq 253.000 / TCN:41Y/ MACH 0.5 / KUTAISI
+  - Tanker / KC-135MPRS / 20000 ft / ARCO / Freq 251.000 / TCN:51Y/ MACH 0.6 / NORTE SENAKI
+  - Tanker / KC135MPRS / 22000 ft / SHELL / Freq 252.000 / TCN:52Y/ MACH 0.6 / NORTE SENAKI
+  - Tanker / KC-135 / 15000 ft /TEXACO / Freq 253.000 / TCN:53Y/ MACH 0.5 / KUTAISI
 
 - RAMROD: MONKEYSPIT
 
