@@ -1,14 +1,18 @@
 # MISION 5JOTTERS ENTRENAMIENTO
+Misión en el mapa del Cáucaso para realizar diferentes entrenamientos PvP y contra IA. Posibilidad de BVR, BFM, carrier ops, empleo armamento AG. Hay 3 OPERACIONES: Instant BFM, Carrier ops, Escenario tormenta de hielo.
 
-## 3 OPERACIONES:
-1. INSTANT BFM: BFM contra Su27 y Mig29 IA. Aviones: 2xF18 + 2xF14.  Posición: en la frontera rusa de Sochi.
+## INSTANT BFM
+BFM contra Su27 y Mig29 IA. 
+- Aviones: 2xF18 + 2xF14.  
+- Posición: en la frontera rusa de Sochi.
 
-2. ESCENARIO DE ENTRENAMIENTO CARRIER OPS ESTE DE KOBULETI:
--  4xF18 & 4xF14
-- AIRBOSS:  cisterna s3-b disponible en 250Mhz, TCN 3Y, alt 6000', 300tas
-- MOA NORTE BATUMI, MOA SUR BATUMI en plan vuelo.
-- WX: 20004KT 380 FG BKN045 M10.099999904633 Q1013 RMK 
-- POLÍGONO REAL DE TIRO SUR KOBULETI: T80, BTR, ZSU, URAL.
+##  ESCENARIO DE ENTRENAMIENTO CARRIER OPS
+- CVN Stennis y Tarawa frente a la costa de Kobuleti.
+- Aviones: 4xF18 + 4xF14
+- AIRBOSS:  cisterna s3-b disponible en 250Mhz, TCN 3Y, alt 6000', 300 TAS
+- MOA NORTE BATUMI, MOA SUR BATUMI en plan vuelo F18s.
+- Menú AIRBOSS.
+- POLÍGONO REAL DE TIRO aL SUR KOBULETI: T80s, BTRs, ZSUs, URAL y estáticos. Coord: N 41º 50' 31", E 41º 47' 52" 
 
 3.  ESCENARIO REAL  OPERACION TORMENTA DE HIELO DESDE TBILISI-LOCHINI. 
  
