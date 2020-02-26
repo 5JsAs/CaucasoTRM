@@ -11,7 +11,7 @@ BFM contra Su27 y Mig29 IA.
 - Aviones: 4xF18 + 4xF14
 - AIRBOSS:  cisterna s3-b disponible en 250Mhz, TCN 3Y, alt 6000', 300 TAS
 - MOA NORTE BATUMI, MOA SUR BATUMI en plan vuelo F18s.
-- Menú AIRBOSS.
+- Weather, BRC, freqs, ventanas: Menú AIRBOSS-->kneeboard.
 - POLÍGONO REAL DE TIRO aL SUR KOBULETI: T80s, BTRs, ZSUs, URAL y estáticos. Coord: N 41º 50' 31", E 41º 47' 52" 
 
 ## ESCENARIO REAL  OPERACION TORMENTA DE HIELO DESDE TBILISI-LOCHINI. 
