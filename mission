@@ -234,9 +234,9 @@ mission =
     }, -- end of ["triggers"]
     ["map"] = 
     {
-        ["centerY"] = 648280.79802112,
-        ["zoom"] = 2162118.5448358,
-        ["centerX"] = -240369.49450741,
+        ["centerY"] = 716430.47538014,
+        ["zoom"] = 2022327.8896996,
+        ["centerX"] = -161169.92688808,
     }, -- end of ["map"]
     ["coalitions"] = 
     {
@@ -10920,10 +10920,10 @@ mission =
                                             ["EWDispenserTFR"] = 1,
                                             ["EWDispenserTBR"] = 2,
                                             ["ClockTime"] = 1,
-                                            ["RocketBurst"] = 1,
-                                            ["WpBullseye"] = 0,
-                                            ["EWDispenserBL"] = 2,
                                             ["EWDispenserTFL"] = 1,
+                                            ["RocketBurst"] = 1,
+                                            ["EWDispenserBL"] = 2,
+                                            ["WpBullseye"] = 0,
                                             ["ForceINSRules"] = false,
                                             ["MountNVG"] = false,
                                         }, -- end of ["AddPropAircraft"]
@@ -11138,7 +11138,7 @@ mission =
                                             ["gun"] = 100,
                                         }, -- end of ["payload"]
                                         ["y"] = 622697.94101596,
-                                        ["heading"] = 1218.9379495936,
+                                        ["heading"] = 1244.0706908224,
                                         ["callsign"] = 
                                         {
                                             [1] = 3,
@@ -11236,10 +11236,10 @@ mission =
                                             ["ForceINSRules"] = false,
                                             ["EWDispenserTBR"] = 2,
                                             ["EWDispenserBL"] = 2,
-                                            ["RocketBurst"] = 1,
-                                            ["WpBullseye"] = 0,
-                                            ["EWDispenserTBL"] = 2,
                                             ["EWDispenserTFL"] = 1,
+                                            ["RocketBurst"] = 1,
+                                            ["EWDispenserTBL"] = 2,
+                                            ["WpBullseye"] = 0,
                                             ["EWDispenserTFR"] = 1,
                                             ["MountNVG"] = false,
                                         }, -- end of ["AddPropAircraft"]
@@ -11454,7 +11454,7 @@ mission =
                                             ["gun"] = 100,
                                         }, -- end of ["payload"]
                                         ["y"] = 622697.94101596,
-                                        ["heading"] = 1218.9379495936,
+                                        ["heading"] = 1244.0706908224,
                                         ["callsign"] = 
                                         {
                                             [1] = 3,
@@ -20902,7 +20902,7 @@ mission =
             ["eventlist"] = "",
         }, -- end of [10]
     }, -- end of ["trigrules"]
-    ["currentKey"] = 270156,
+    ["currentKey"] = 276450,
     ["start_time"] = 32400,
     ["forcedOptions"] = 
     {
