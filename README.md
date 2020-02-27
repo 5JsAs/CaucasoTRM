@@ -17,7 +17,7 @@ BFM contra Su27 y Mig29 IA.
   - Tbilisi-Lochini:    ATC: 138.0 / 267.0. ATIS:138.8  NAV: TACAN GTB 25X / VOR TB 113.7
   - Kobuleti:    ATC: 133.0 / 262.0.  NAV: TACAN KBL 67X
   - Batumi:    ATC: 131.0 / 260.0.   NAV: TACAN BTM 16X
-  - Kutaisi:  ATC: 138.0 / 263.0.  ATIS: 138.8  NAV: TACAN KTS 44X / VOR KT 113.6
+  - Kutaisi:  ATC: 138.0 / 263.0.  ATIS: 134.8  NAV: TACAN KTS 44X / VOR KT 113.6
 
 - SUPPORT:
   - AWACS / MAGIC/ Freq 305.000 / TCN:
@@ -55,7 +55,7 @@ BFM contra Su27 y Mig29 IA.
   - Tbilisi-Lochini:    ATC: 138.0 / 267.0. ATIS:138.8  NAV: TACAN GTB 25X / VOR TB 113.7
   - Kobuleti:    ATC: 133.0 / 262.0.  NAV: TACAN KBL 67X
   - Batumi:    ATC: 131.0 / 260.0.   NAV: TACAN BTM 16X
-  - Kutaisi:  ATC: 138.0 / 263.0.  ATIS: 138.8  NAV: TACAN KTS 44X / VOR KT 113.6
+  - Kutaisi:  ATC: 138.0 / 263.0.  ATIS: 134.8  NAV: TACAN KTS 44X / VOR KT 113.6
   
 - SUPPORT:
   - AWACS / MAGIC/ Freq 305.000 / TCN:
