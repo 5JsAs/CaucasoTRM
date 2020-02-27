@@ -51,7 +51,7 @@ function tanker2spawn()
 end
 tanker2spawn()
 
-tanker3 = SPAWN:New("KC-135_TEXACO")
+tanker3 = SPAWN:New("KC-135_PEGASO")
 function tanker3spawn()
   tanker3:OnSpawnGroup(
     function (tanker3_group)
