@@ -12,7 +12,7 @@ BFM contra Su27 y Mig29 IA.
 - Aviones: 8xF18 + 4xF14
 - ~~AIRBOSS:  cisterna s3-b disponible en 254Mhz, TCN 4Y, alt 6000', 300 TAS~~
 - MOA NORTE BATUMI, MOA SUR BATUMI en plan vuelo F18s.
-- Weather, BRC, freqs, ventanas: Menú AIRBOSS-->kneeboard.
+- ~~Weather, BRC, freqs, ventanas: Menú AIRBOSS-->kneeboard.~~
 - POLÍGONO REAL DE TIRO aL SUR KOBULETI: T80s, BTRs, ZSUs, URAL y estáticos. Coord: N 41º 50' 31", E 41º 47' 52" 
 - COMM PLAN: 
   - Batumi:          ATC: 131.0/260.0,  ATIS: 132.800,  NAV: TACAN BTM 16X
