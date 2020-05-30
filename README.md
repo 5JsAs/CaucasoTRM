@@ -23,7 +23,8 @@ BFM contra Su27 y Mig29 IA.
   - Vaziani:         ATC: 140.0/269.0,  ATIS: 122.700,  NAV: TACAN VAS 22X
   
 - SUPPORT:
-  - AWACS / MAGIC/ Freq 305.600 / TCN:
+  - AWACS / MAGIC/ Freq 305.600 / Central Black Sea
+  - AWACS / OVERLORD/ Freq 270.1 / West-Georgia
   - Tanker / KC-135M / 20000 ft / ARCO / Freq 319.800 / TCN 13Y/ MACH 0.6 / NORTE SENAKI
   - Tanker / KC135MPRS / 22000 ft / SHELL / Freq 360.8.000 / TCN 45Y/ MACH 0.6 / NORTE SENAKI
   - Tanker / KC-135MPRS / 15000 ft /TEXACO / Freq 265.000 / TCN 11X/ MACH 0.5 / KUTAISI
