@@ -10,7 +10,7 @@ BFM contra Su27 y Mig29 IA.
 - CVN -71 Theodore Roosvelt: TCN 71X / 127.5 AM / ICLS 1 / BRC 347/167
 - Tarawa frente a la costa de Kobuleti: TCN 2X /128.5 AM
 - Aviones: 8xF18 + 4xF14
-- ~~AIRBOSS:  cisterna s3-b disponible en 254Mhz, TCN 4Y, alt 6000', 300 TAS
+- ~~AIRBOSS:  cisterna s3-b disponible en 254Mhz, TCN 4Y, alt 6000', 300 TAS~~
 - MOA NORTE BATUMI, MOA SUR BATUMI en plan vuelo F18s.
 - Weather, BRC, freqs, ventanas: Menú AIRBOSS-->kneeboard.
 - POLÍGONO REAL DE TIRO aL SUR KOBULETI: T80s, BTRs, ZSUs, URAL y estáticos. Coord: N 41º 50' 31", E 41º 47' 52" 
