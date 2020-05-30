@@ -1,6 +1,9 @@
 # MISION 5JOTTERS ENTRENAMIENTO
 Misión en el mapa del Cáucaso para realizar diferentes entrenamientos PvP y contra IA. Posibilidad de BVR, BFM, carrier ops, empleo armamento AG. Hay 3 OPERACIONES: Instant BFM, Carrier ops, Escenario tormenta de hielo.
 
+# FICHERO COMBAT FLITE PARA PLANEAMIENTO
+![CA_TRM.cf](https://drive.google.com/file/d/1_JvGtzBPpg3r5q-LdOmMMiAZa190AVz4/view?usp=sharing)
+
 ## INSTANT BFM
 BFM contra Su27 y Mig29 IA. 
 - Aviones: 2xF18 + 2xF14.  
