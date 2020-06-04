@@ -116,8 +116,9 @@ options =
         }, -- end of ["Su-25T"]
         ["DCS-SRS"] = 
         {
-            ["srsAutoLaunchEnabled"] = true,
             ["srsOverlayEnabled"] = true,
+            ["srsAutoLaunchEnabled"] = true,
+            ["srsOverlayCompactModeEnabled"] = false,
         }, -- end of ["DCS-SRS"]
         ["SpitfireLFMkIX"] = 
         {
