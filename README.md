@@ -5,8 +5,8 @@ Misión en el mapa del Cáucaso para realizar diferentes entrenamientos PvP y co
 [CA_TRM.cf](https://drive.google.com/file/d/12-yHBVpB-u3U9-4328kspW8SXFkJrijx/view?usp=sharing)
 
 ## INSTANT BFM
-BFM contra Su27 y Mig29 IA. 
-- Aviones: 2xF18 + 2xF14.  
+BFM contra Su27
+- Aviones: 1xF18  
 - Posición: en la frontera rusa de Sochi.
 
 ##  ESCENARIO DE ENTRENAMIENTO CARRIER OPS
