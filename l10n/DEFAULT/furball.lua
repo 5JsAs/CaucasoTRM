@@ -5,15 +5,13 @@
 
 
 
-do
-
   -- Declare SPAWN objects
-  Spawn_RED1 = SPAWN:New("RED1"):InitLimit( 1, 8 ):SpawnScheduled( 60, 0 )
+  --Spawn_RED1 = SPAWN:New("RED1"):InitLimit( 1, 8 ):SpawnScheduled( 60, 0 )
   --Spawn_arcoBLUE = SPAWN:New("ARCO"):InitLimit( 1, 8 ):SpawnScheduled( 60, 0 ):InitRepeatOnEngineShutDown():InitRepeatOnLanding()
   --Spawn_AWACS = SPAWN:New("AWACS"):InitLimit( 1, 4 ):SpawnScheduled( 100, 0 ):InitRepeatOnEngineShutDown():InitRepeatOnLanding()
 
-
- end
+Spawn_Plane_Limited_Scheduled_RandomizeRoute = SPAWN:New( "RED1" ):InitLimit( 1, 20 ):SpawnScheduled( 20, 0 )
+ 
 
 
 

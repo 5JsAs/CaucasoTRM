@@ -28,18 +28,16 @@ BFM contra Su27 y Mig29 IA.
 - SUPPORT:
   - AWACS / MAGIC/ Freq 305.600 / Central Black Sea
   - AWACS / OVERLORD/ Freq 270.1 / West-Georgia
-  - Tanker / KC-135M / 20000 ft / ARCO / Freq 319.800 / TCN 13Y/ MACH 0.6 / NORTE SENAKI
-  - Tanker / KC135MPRS / 22000 ft / SHELL / Freq 360.8.000 / TCN 45Y/ MACH 0.6 / NORTE SENAKI
+  - Tanker / KC-135M / 20000 ft / ARCO / Freq 319.800 / TCN 13X/ MACH 0.6 / NORTE SENAKI
+  - Tanker / KC135MPRS / 22000 ft / SHELL / Freq 360.8.000 / TCN 45X/ MACH 0.6 / NORTE SENAKI
   - Tanker / KC-135MPRS / 15000 ft /TEXACO / Freq 265.000 / TCN 11X/ MACH 0.5 / KUTAISI
 
 
 ## ESCENARIO REAL  OPERACION TORMENTA DE HIELO DESDE TBILISI-LOCHINI. 
  
 ### MISSION OVERVIEW 
-- Date: 22 January 2019
-- Time: 09:00:00
-- Sunrise: 08:52 (over bullseye) 
-- Sunset: 17:39 (over bullseye) 
+- Date: 8 Abril 20209
+- Time: 08:00:00
 
 ### ATO: MISION 2 TORMENTA DE HIELO 2
 

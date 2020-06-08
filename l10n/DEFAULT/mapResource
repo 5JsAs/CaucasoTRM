@@ -1,13 +1,7 @@
 mapResource = 
 {
-    ["ResKey_Action_1176"] = "furball.lua",
-    ["ResKey_Action_1177"] = "furball2.lua",
-    ["ResKey_Action_751"] = "Tankers.lua",
-    ["ResKey_Action_1179"] = "furball4.lua",
-    ["ResKey_Action_319"] = "RED_CAP.lua",
-    ["ResKey_Action_292"] = "Moose.lua",
     ["ResKey_Action_1180"] = "Missile Trainer_cr1.lua",
-    ["ResKey_Action_802"] = "AWACS.lua",
-    ["ResKey_Action_1178"] = "furball3.lua",
+    ["ResKey_Action_319"] = "RED_CAP.lua",
     ["ResKey_Action_1175"] = "furball.lua",
+    ["ResKey_Action_292"] = "Moose.lua",
 } -- end of mapResource

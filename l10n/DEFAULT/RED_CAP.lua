@@ -22,7 +22,7 @@ A2ADispatcher:SetDisengageRadius( 60000 )
 A2ADispatcher:SetSquadron( "5js", AIRBASE.Caucasus.Mineralnye_Vody, { "SU27CAP" }, 6 )
 REDcapzonesur = ZONE_POLYGON:New( "CAPZONE", GROUP:FindByName( "CAPZONE" ) )
 A2ADispatcher:SetSquadronCap( "5js", REDcapzonesur, 9000, 10000, 600, 800, 800, 1200, "BARO" )
-A2ADispatcher:SetSquadronCapInterval( "5js", 1, 400, 500 )
+A2ADispatcher:SetSquadronCapInterval( "5js", 1, 500, 510 )
 A2ADispatcher:SetSquadronGrouping("5js",2 )
 
 A2ADispatcher:SetSquadron( "6js", AIRBASE.Caucasus.Mineralnye_Vody, { "SU27CAP2" }, 6 )
